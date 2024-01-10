@@ -1,5 +1,4 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning It and reinforcing my knowledge of Object Oriented Programming.
-- 📫 How to reach me: LostSaltyFishOnLand@gmail.com
+- 🌱 I’m currently learning IT and reinforcing my knowledge of Object Oriented Programming.
 - ⚡ Fun fact: I beatbox!
